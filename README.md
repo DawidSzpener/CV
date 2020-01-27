@@ -36,8 +36,8 @@ Whether its working in a team to complete a big project or working on something 
 - Comunicating with customer to try and deliver exactly of what they requested
 
 Overall im proud of what I have achieved in Great Bear. In just two years from being a new guy who knows little english to first ever foreigner team-leader on site.
-This aswell as multiple employee of the month awards. There was always alot of faith put in me by the management staff because of my character, for example I was
-responsible for opening and closing entire warehouse. The reason for leaving would be not the greatest prospects for future,
+This aswell as multiple employee of the month awards. There was always alot of faith put in me by the management staff, for example I was responsible for opening and closing entire warehouse.
+The reason for leaving would be not the greatest prospects for future,
 because after some time you hit a ceiling and thats it.
 
 
@@ -47,19 +47,15 @@ because after some time you hit a ceiling and thats it.
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, CSS, HTML
+- RSpec, Jasmine, capybara
 
 #### University of technology and nature (2012-2014)
 
 - Building construction and architecture
-- Left after two years of study
-- Toughest university in my region
 
 ## Hobbies
 
-- Cooking! I know plenty of good polish recipies
+- Cooking! I know plenty of good polish recipies.
 - Biking, always bike to work never drive!
-- Web surfing, its actually my most time consuming hobby and least intresting
 - Phantasy books, "The Warded Man", "The Legend of Drizzt"
-- Women, nothing to add here haha
