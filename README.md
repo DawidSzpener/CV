@@ -30,16 +30,10 @@ Whether its working in a team to complete a big project or working on something 
 
 ## Work experience
 
-####Great Bear (2015-2019)
+#### Great Bear (2015-2019)
 - Working daily in a team environment, where every piece of a team was of a huge importance
 - Teaching new members of the team their respective roles
 - Comunicating with customer to try and deliver exactly of what they requested
-
-Overall im proud of what I have achieved in Great Bear. In just two years from being a new guy who knows little english to first ever foreigner team-leader on site.
-This aswell as multiple employee of the month awards. There was always alot of faith put in me by the management staff, for example I was responsible for opening and closing entire warehouse.
-The reason for leaving would be not the greatest prospects for future,
-because after some time you hit a ceiling and thats it.
-
 
 ## Education
 
