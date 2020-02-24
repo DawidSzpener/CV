@@ -44,7 +44,7 @@ Whether its working in a team to complete a big project or working on something 
 
 ## Projects
 
-For all these projects we used TDD technique and Agile workflow.
+For all these projects we used TDD process and Agile workflow.
 
 #### The CSS
 
@@ -63,7 +63,8 @@ Using Ruby, Sinatra, RSpec and Capybara
 
 #### Acebook
 
-https://github.com/Hyan18/acebook-luckerberg  Using Ruby on Rails, Capybara, JavaScript
+https://github.com/Hyan18/acebook-luckerberg
+Using Ruby on Rails, Capybara, JavaScript
 
 
 ## Hobbies
