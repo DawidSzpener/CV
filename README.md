@@ -39,6 +39,9 @@ Whether its working in a team to complete a big project or working on something 
 
 #### Makers Academy (11-2019/02-2020)
 
+#### University of technology and nature (2012-2014)
+- Building construction and architecture
+
 ## Projects
 
 For all these projects we used TDD technique and Agile workflow.
@@ -66,10 +69,6 @@ Using Ruby, Sinatra, RSpec and Capybara
 https://github.com/Hyan18/acebook-luckerberg
 
 Using Ruby on Rails, Capybara, JavaScript
-
-#### University of technology and nature (2012-2014)
-
-- Building construction and architecture
 
 ## Hobbies
 
