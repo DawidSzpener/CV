@@ -30,7 +30,7 @@ Whether its working in a team to complete a big project or working on something 
 
 ## Work experience
 
-#### Great Bear (2015-2019)
+#### Great Bear Distribution (2015-2019)
 - Working daily in a team environment, where every piece of a team was of a huge importance
 - Teaching new members of the team their respective roles
 - Comunicating with customer to try and deliver exactly of what they requested
@@ -39,10 +39,33 @@ Whether its working in a team to complete a big project or working on something 
 
 #### Makers Academy (11-2019/02-2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, CSS, HTML
-- RSpec, Jasmine, capybara
+## Projects
+
+For all these projects we used TDD technique and Agile workflow.
+
+##### The CSS
+
+https://github.com/Hyan18/the-css
+
+Using MERN stack ( MongoDB, Express, React, Node.js )
+
+##### Airbnb clone
+
+https://github.com/EManifold/makersBnb-team6
+
+Using Ruby, Sinatra, RSpec and Capybara
+ 
+##### Chitter 
+
+https://github.com/DawidSzpener/chitter-challenge
+
+Using Ruby, Sinatra, RSpec and Capybara
+
+##### Acebook
+
+https://github.com/Hyan18/acebook-luckerberg
+
+Using Ruby on Rails, Capybara, JavaScript
 
 #### University of technology and nature (2012-2014)
 
