@@ -46,29 +46,25 @@ Whether its working in a team to complete a big project or working on something 
 
 For all these projects we used TDD technique and Agile workflow.
 
-##### The CSS
+#### The CSS
 
 https://github.com/Hyan18/the-css
-
 Using MERN stack ( MongoDB, Express, React, Node.js )
 
-##### Airbnb clone
+#### Airbnb clone
 
 https://github.com/EManifold/makersBnb-team6
-
 Using Ruby, Sinatra, RSpec and Capybara
  
-##### Chitter 
+#### Chitter 
 
 https://github.com/DawidSzpener/chitter-challenge
-
 Using Ruby, Sinatra, RSpec and Capybara
 
-##### Acebook
+#### Acebook
 
-https://github.com/Hyan18/acebook-luckerberg
+https://github.com/Hyan18/acebook-luckerberg  Using Ruby on Rails, Capybara, JavaScript
 
-Using Ruby on Rails, Capybara, JavaScript
 
 ## Hobbies
 
