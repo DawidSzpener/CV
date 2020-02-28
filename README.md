@@ -1,10 +1,10 @@
 ## Dawid Szpener
 
-Few years ago I decided to take a huge gample and leave university to find something in life that will make me feel fulfilled.  
-I thought making alot of money and starting a new business would do, that was until my friend showed me his website and introduced me to coding.
-That feeling when you finish some piece of code you have been strugling with for hours is one of a kind!
-I realized its really fun and something I like doing while it also opens up alot of perspectives for the future.      
-So I took another gamble leaving my comfy job and joining The Makers Academy to see if its truly for me.
+A few years ago I decided to take a huge gamble and leave university to find something in life that will make me feel fulfilled.  
+I thought making a alot of money and starting a new business would do, that was until my friend showed me his website and introduced me into coding.
+That feeling when you finish some piece of code you have been struggling with for hours is one of a kind!
+I realized it's really fun and something I like doing while it also opens up a lot of perspectives for the future.      
+So I took another gamble leaving my comfy job and joining The Makers Academy to see if it's truly for me.
 
 ## Skills
 
