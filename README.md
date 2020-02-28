@@ -1,7 +1,7 @@
 ## Dawid Szpener
 
 A few years ago I decided to take a huge gamble and leave university to find something in life that will make me feel fulfilled.  
-I thought making a alot of money and starting a new business would do, that was until my friend showed me his website and introduced me into coding.
+I thought making a lot of money and starting a new business would do, that was until my friend showed me his website and introduced me into coding.
 That feeling when you finish some piece of code you have been struggling with for hours is one of a kind!
 I realized it's really fun and something I like doing while it also opens up a lot of perspectives for the future.      
 So I took another gamble leaving my comfy job and joining The Makers Academy to see if it's truly for me.
@@ -9,31 +9,31 @@ So I took another gamble leaving my comfy job and joining The Makers Academy to 
 ## Skills
 
 #### Humble
-There is not a single person who knows everything the best, in a way even someone who is wrong could be right from different perspective.
-I understand every opinion can be helpful and every persons perspective is unique in a way.        
+There is not a single person who knows everything the best. In a way, even someone who is wrong could be right from a different perspective.
+I understand every opinion can be helpful and every person's perspective is unique in a way.        
 We learn more while listening than speaking.
 
 #### Friendly and helpful
-Helping others is something that really makes me happy and I always treat it like its not a big deal, because why should it be?
-It already takes alot of courage to admit in front of someone else that you dont know or that you cant.                  
-Being helpful also builds alot of positive connections which is very important in keeping high morale in a workplace.
+Helping others is something that really makes me happy and I always treat it like it's not a big deal, because why should it be?
+It already takes a lot of courage to admit in front of someone else that you don't know or that you can't.                  
+Being helpful also builds a lot of positive connections which is very important in keeping high morale in a workplace.
 
 #### Patient
-Petience is something that is being learned by being calm and collective in stresfull situations.
+Patience is something that is being learned by being calm and collective in stressful situations.
 Practicing meditation helped me achieve that. 
-It also helps alot in understanding whats important not only in life but also in code.
+It also helps a lot in understanding what's important, not only in life but also in the code.
 
 #### Dedicated and determined
-When a task is given to me I take pride in completing it.
+When a task is given to me, I take pride in completing it.
 I think highly about my capabilities and it makes me determined to prove to myself that I can do it.
-Whether its working in a team to complete a big project or working on something small just by myself I always make sure its done.
+Whether it's working in a team to complete a big project or working on something small just by myself I always make sure its done.
 
 ## Work experience
 
 #### Great Bear Distribution (2015-2019)
 - Working daily in a team environment, where every piece of a team was of a huge importance
 - Teaching new members of the team their respective roles
-- Comunicating with customer to try and deliver exactly of what they requested
+- Communicating with customer's to try and deliver exactly of what they requested
 
 ## Education
 
@@ -73,6 +73,7 @@ Using Javascript and Jasmine
 
 ## Hobbies
 
-- Cooking! I know plenty of good polish recipies.
+- Coding, I especially like tinkering.
+- Cooking! I know plenty of good polish recipes.
 - Biking, always bike to work never drive!
 - Phantasy books, "The Warded Man", "The Legend of Drizzt"
