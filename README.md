@@ -44,12 +44,20 @@ Whether it's working in a team to complete a big project or working on something
 
 ## Projects
 
-For all these projects we used TDD process and Agile workflow.
+#### Ricipici
+
+https://github.com/DawidSzpener/Ripicipi
+Using React, Node.js, firebase
+
+#### Simple Asset Tracker
+
+https://github.com/makersacademy/simpleassettracker
+Using python, Django, React.js, PSQL, Heroku, Axios
 
 #### The CSS
 
 https://github.com/Hyan18/the-css
-Using MERN stack ( MongoDB, Express, React, Node.js )
+Using MERN stack (MongoDB, Express, React, Node.js)
 
 #### Airbnb clone
 
